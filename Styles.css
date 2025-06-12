@@ -1,0 +1,77 @@
+header {
+    background-color: #585757;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: #FFFFFF;
+    height: 135px;
+    font-family: sans-serif;
+}
+.HollowL{
+    height: 100px;
+    width: 100px;
+}
+.HollowP {
+    background-image: url(Images/Hollow-Knight-3.png);
+    background-size: cover;
+    background-position: center;
+    height:350px;
+    color: white;
+    margin:0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.HollowT{
+    font-size: 50px;
+}
+.HollowIT, .Historia, .Historia2{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: #8d8d8d;
+    height: 40px;
+    font-family: sans-serif;
+}
+.HollowITI, .HollowHG{
+    height: 200px;
+    width: 360px;
+}
+.HollowImages{
+    text-align: center;
+}
+footer{
+    background-color: #585757;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: #FFFFFF;
+    height: 50px;
+    font-family: sans-serif;
+}
+body{
+    background-color: #e9e9e9;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+}
+nav {
+    background-color: #b9b9b9;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: large;
+    font-family: sans-serif;
+}
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a:hover {
+    color: #523f22;
+}
