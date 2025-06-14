@@ -28,7 +28,7 @@ header {
 .HollowT{
     font-size: 50px;
 }
-.HollowIT, .Historia, .Historia2{
+.HollowIT, .Historia, .Historia2, .HKAHA{
     text-align: center;
     align-items: center;
     display: flex;
@@ -74,4 +74,33 @@ a {
 }
 a:hover {
     color: #523f22;
+}
+.AHA {
+    display: flex;
+    justify-content: space-between; 
+    align-items: flex-start;
+    text-align: justify;
+    gap: 20px;
+    padding: 20px;
+}
+  
+.aguijon, .hechizos, .amuletos {
+    width: 33.3%; 
+    padding: 20px;
+    box-sizing: border-box;
+}
+  
+.hechizos {
+    background-color: #9e9e9e;
+}
+  
+.aguijon, .amuletos{
+    background-color: #cacaca;
+}
+.HollowHechizo {
+    width: 100%;
+    max-width: 360px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
